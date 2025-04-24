@@ -39,14 +39,6 @@ This project presents a complete **Sales Dashboard** built in **Power BI**, anal
 ### 10. filters on whole dataset : Slicers and tables
 ![ans 10](10.png)
 
-## 🖼 Dashboard Preview
-
-![Dashboard Screenshot](images/powerbi_sales_dashboard.png)  
-*A sample view of the interactive Power BI sales dashboard*
-
-> 🔁 Make sure to add your dashboard screenshot in `images/` or update the link accordingly.
-
-
 ---
 
 ## 🛠 Tools & Features Used
@@ -59,7 +51,7 @@ This project presents a complete **Sales Dashboard** built in **Power BI**, anal
 
 ---
 
-[Click to see Project's Video / Linkdin Post]()
+[Click to see Project's Video / Linkdin Post](https://www.linkedin.com/posts/zodrick-john-1689a8256_powerbi-salesanalysis-businessintelligence-activity-7321222386341605380-bvUc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA)
 
 ---
 
